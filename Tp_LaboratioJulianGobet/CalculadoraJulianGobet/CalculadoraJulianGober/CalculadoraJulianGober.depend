@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1567817359 source:d:\gobesitop\calculadorajuliangobet\calculadorajuliangober\calcu.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1567717099 d:\gobesitop\calculadorajuliangobet\calculadorajuliangober\calcu.h
+	<stdio.h>
+	<stdlib.h>
+
+1567816805 source:d:\gobesitop\calculadorajuliangobet\calculadorajuliangober\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
